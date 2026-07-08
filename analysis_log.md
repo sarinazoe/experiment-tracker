@@ -8,3 +8,5 @@ Applied log2 normalization to raw counts before comparison.
 
 ##Step 3 - Differential expression section
 
+##Step 4 - Test
+
